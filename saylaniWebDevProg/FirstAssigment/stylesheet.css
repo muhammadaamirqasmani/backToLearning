@@ -1,0 +1,19 @@
+body {
+margin: 0;
+}
+.mainHeading {
+    background-color: yellow;
+    padding: 5px;
+    font-size: 5vw;
+}
+td {
+    width: 5vw;
+    border: 1px solid black;
+   text-align: center;
+}
+.zeroBorder {
+    border: none;
+}
+span {
+    font-size: small;
+}
